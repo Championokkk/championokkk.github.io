@@ -13,9 +13,6 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
 
 features:
   - title: 前端知识
