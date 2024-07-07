@@ -20,6 +20,6 @@ features:
   - title: 个人成长
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: 推荐书籍
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: 《少有人走的路》
 ---
 
